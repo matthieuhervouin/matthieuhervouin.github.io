@@ -8,5 +8,5 @@ date: 2023-04-06
 location: "Paris, France"
 ---
 [the program](https://lirsa.cnam.fr/seminaires-evenements/colloques/advances-in-economic-design-1402886.kjsp)
-[see presentation](https://matthieuhervouin.github.io/files/presentatio_workshop.pdf)
+[see presentation](https://matthieuhervouin.github.io/files/presentation_workshop.pdf)
 This presentation was presenting part of our work on Classification without Unanimity.
