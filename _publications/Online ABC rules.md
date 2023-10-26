@@ -6,7 +6,7 @@ excerpt: 'We consider the problem of ABC elections where candidates are presente
 date: 2022-05-06
 venue: 'IJCAI 2022'
 paperurl: 'https://arxiv.org/abs/2202.06830'
-citation: 'Virginie Do, Matthieu Hervouin, Jérôme Lang, Piotr Skowron (2022). &quot;nline Approval Committee Elections.&quot; <i>JIJCAI</i>.'
+citation: 'Virginie Do, Matthieu Hervouin, Jérôme Lang, Piotr Skowron (2022). &quot;nline Approval Committee Elections.&quot; <i>IJCAI</i>.'
 ---
 Assume k candidates need to be selected. The candidates appear over time. Each time one
 appears, it must be immediately selected or rejected—a decision that is made by a group of
