@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _other 
+  # _portfolio
   - scope:
       path: ""
-      type: Other interests
+      type: portfolio
     values:
       layout: single
       author_profile: true
