@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 I have some parkour and climbing clips here [insta page](https://www.instagram.com/mmaatthh_muv/)
-Fontainebleau in winter <br/><img src='/images/climbing.png'>
+<br/><img src='/images/climbing.png'>
 
