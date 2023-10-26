@@ -1,0 +1,20 @@
+---
+title: "Online Approval Committee Elections"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'We consider the problem of ABC elections where candidates are presented one by one in an online setting.'
+date: 2022-05-06
+venue: 'IJCAI 2022'
+paperurl: 'https://arxiv.org/abs/2202.06830'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+Assume k candidates need to be selected. The candidates appear over time. Each time one
+appears, it must be immediately selected or rejected—a decision that is made by a group of
+individuals through voting. Assume the voters use approval ballots, i.e., for each candidate they
+only specify whether they consider it acceptable or not. This setting can be seen as a voting variant
+of choosing k secretaries. Our contribution is twofold. (1) We assess to what extent the committees
+that are computed online can proportionally represent the voters. (2) If a prior probability over
+candidate approvals is available, we show how to compute committees with maximal expected
+score.
+
+[Download paper here](https://arxiv.org/abs/2202.06830)

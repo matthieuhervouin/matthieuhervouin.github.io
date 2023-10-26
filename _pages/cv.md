@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Licence (B.S. eq) in Computer Science at ENS de Lyon
+* M.S. in Computer Science at Université Paris-Dauphine
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Internship
+  * Ecole des Ponts et Chaussées
+  * Dividing a discrete cake without assuming players prefer non-empty pieces
+  * Supervisor: Frédéric Meunier
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Internship
+  * LAMSADE and Warsaw University
+  * Online approval based committee elections
+  * Supervisors: Jérôme Lang, Piotr Skowron
+  * Other collaborator: Virginie Do
+
+* Summer 2022: Research Internship
+  * LAMSADE and HHU Düsseldorf 
+  * 
+  * Supervisors: Jérôme Lang, Jorg Rothe
+  * Other collaborator: Joanna Kaczmarek
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Represents PhD students of Dauphine in "Conseil Scientifique" (administative committee) and for "Responsabilité Social de l'université" (committee for environemental and social questions)
