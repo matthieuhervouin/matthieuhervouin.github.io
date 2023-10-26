@@ -1,6 +1,6 @@
 ---
 title: "Climbing"
-excerpt: "Fontainebleau in winter <br/><img src='/images/climbing.png'>"
+excerpt: "Fontainebleau in winter <br/><img src='/images/climbing.png' width="100">"
 collection: portfolio
 ---
 
