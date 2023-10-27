@@ -11,8 +11,9 @@ main:
     
   - title: "Other interests"
     url: /portfolio/
-        
 
+ - title: "Vulgarisation"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
