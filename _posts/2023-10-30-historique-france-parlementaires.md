@@ -1,5 +1,5 @@
 ---
-title: 'Les élections parelementaires en France'
+title: 'Les élections parlementaires en France'
 date: 2023-10-27
 permalink: /posts/2012/08/blog-post-1/
 tags:
@@ -8,7 +8,7 @@ tags:
   - Historique
   - Parlement
 ---
-Une petite introduction avant de parler des systèmes de vote pour les élections parlementaires, petit comparatif de ceux de la Vème et IVème République. Je présente les deux varaintes les plus connues, mais il y en a existé d'autres dans ces deux régimes.
+Une petite introduction avant de parler des systèmes de vote pour les élections parlementaires, petit comparatif de ceux de la Vème et IVème République.
 
 NB: Contrairement au mode de scrutin pour les éléctions présidentielles, celui des éléctions législatives est fixé dans le code éléctoral et non la constitution. Il est donc plus facile à faire changer, et l'a d'ailleurs été à de nombreuses reprises, la dernière foi par la loi du 11 juillet 1986.
 
@@ -26,7 +26,7 @@ Les candidat·e·s sont élu·e·s au scrutin majoritaire à deux tours. Il est 
 
 Pourquoi un tel scrutin ?
 ------
-L'une des particularités de ce mode de scrutin est que les circonscriptions sont vues commes indépendentes, les candidat·e·s sont donc plus lié·e·s à ces circoncriptions ce qui donne une bonne implantation. Nous avons notre député·e que nous pouvons interpeller sur des lois spécifiques par exemple. Une autre caractéristique importante est ce qui est appelé l'effet de barrage, les partis rejetés par une majorité dans l'ensemble des territoires aura donc beaucoup de mal à avoir des député·e·s au sein de l'assemblée. Cet effet de barrage est assez connu et favorise les gros partis ou les partis régionaux au détriment de petit partis à échelle nationale dont les votant·e·s sont trop disséminé·e·s. Pour palier à cet effet, certains partis lancent des coalitions afin d'éviter d'entrer en conflit dans les circonscriptions et récolter ainsi plus de député·e·s. Lors des dernières élections, c'était par exemple le cas de la NUPES, on trouve aussi beaucoup de coalitions locales pour les élections municipales (ce sera peut-être couvert plus tard).
+L'une des particularités de ce mode de scrutin est que les circonscriptions sont vues commes indépendentes, les candidat·e·s sont donc plus lié·e·s à ces circoncriptions ce qui donne une bonne implantation locale. Nous avons notre député·e que nous pouvons interpeller sur des lois spécifiques par exemple. Une autre caractéristique importante est ce qui est appelé l'effet de barrage, les partis rejetés par une majorité dans l'ensemble des territoires auront beaucoup de mal à avoir des député·e·s au sein de l'assemblée. Cet effet de barrage est assez connu et favorise les gros partis ou les partis régionaux au détriment de petit partis à échelle nationale dont les votant·e·s sont trop disséminé·e·s. Pour palier à cet effet, certains partis lancent des coalitions afin d'éviter d'entrer en conflit dans les circonscriptions et récolter ainsi plus de député·e·s. Lors des dernières élections, c'était par exemple le cas de la NUPES, on trouve aussi beaucoup de coalitions locales pour les élections municipales (ce sera peut-être couvert plus tard).
 
 
 
@@ -36,9 +36,9 @@ Dans la IVème République: Un scrutin à la proportionelle
 
 Le scrutin
 ------
-Le scrutin pour ces élections n'était pas global, il s'agissait d'élections à la proportionelle à l'échelle des départements. Les votant·e·s devaient sélectionner un parti et un ou plusieurs membres de ce parti c'était un scrutin proportionnel plurinominal. La règle de la plus forte moyenne déterminait le nombre de sièges alloués à chaque parti, et les candidat·e·s de chaque parti étaient ensuite sélectionné·e·s en fonction du nombre de vote reçu. 
+Le scrutin pour ces élections n'était pas global, il s'agissait d'élections à la proportionelle à l'échelle des départements. Les votant·e·s devaient sélectionner un parti et un ou plusieurs membres de ce parti c'était un scrutin proportionnel plurinominal. La règle de la plus forte moyenne déterminait le nombre de sièges alloués à chaque parti, et les candidat·e·s de chaque parti étaient ensuite sélectionné·e·s en fonction du nombre de votes reçus. 
 
-Pour déterminer la répartition des sièges, on compte le nombre de vote pour chaque parti, ce qui nous donne un pourcentage _P i_ des votes exprimés pour chaque parti _i_. Pour une assemblée composée de _k_ sièges, on doit donc donner _p i_ x _k_ /100 sièges au parti _i_. Le problème est que ces nombres ne sont pas entiers, il faut donc une règle pour déterminer comment donner les sièges restants. La règle utilisée ici était celle de la plus forte moyenne, mais il en existe beacoup d'autre (voir les liens, un post est à venir à ce propos).
+Pour déterminer la répartition des sièges, on compte le nombre de vote pour chaque parti, ce qui nous donne un pourcentage _P(i)_ des votes exprimés pour chaque parti _i_. Pour une assemblée composée de _k_ sièges, on doit donc donner _P(i)_ &times _k_ /100 sièges au parti _i_. Le problème est que ces nombres ne sont pas entiers, il faut donc une règle pour déterminer comment donner les sièges restants. La règle utilisée ici était celle de la plus forte moyenne, mais il en existe beacoup d'autres (voir les liens, un post est à venir à ce propos).
 
 
 ### Exemple de répartition par la méthode de la plus forte moyenne avec 100 sièges
@@ -57,9 +57,9 @@ Ici, il reste un siège à attribuer après la répartition des sièges entiers,
 
 Les problèmes de la IVème république
 ------
-Le gros problème de la IV ème république a été une instabilité gouvernementale très forte, qui peut être expliquée par deux facteurs, l'institution en elle-même qui favorise le parlement contre le gouvernement, et le contexte à l'international (guerre froide et décolonisation) qui crée des divisions importantes. Pour la raison institutionelle, il y a un fort déséquilibre entre le pouvoir de controle du parlement sur le gouvernement et celui du gouvernement sur le parlement. Si une motion de censure est facile à poser par le parlement (vote à la majorité pour faire chuter le gouvernement), les conditions pour une dissolution de l'assemblée sont complexes, et cette dernière n'a donc jamais eu lieu. A l'inverse, de nombreuses motions de censure sont déposées et votées, ce qui est dû notemment au contexte politique. Les trois grandes forces politiques de l'époque sont le parti communiste (PC), le rassemblement du peuple français (RPF fondé par de Gaulle) et la coalition gouvernementale (composée de partis centristes). Dans le contexte de guerre froide, le PC qui est très opposé aux décisions de la France (plan Marshall, guerre de décolonisation...) se met à l'obstruction parlementaire, les conflits politiques sont alors très importants. Dans ce contexte, la France est jugée ingouvernable par de nombreux critiques, c'est au total 25 gouvernements différents qui se sont succédés en seulement 13 ans.
+Le gros problème de la IV ème république a été une instabilité gouvernementale très forte, qui peut être expliquée par deux facteurs, l'institution en elle-même qui favorise le parlement contre le gouvernement, et le contexte à l'international (guerre froide et décolonisation) qui crée des divisions importantes. Pour la raison institutionelle, il y a un fort déséquilibre entre le pouvoir de controle du parlement sur le gouvernement et celui du gouvernement sur le parlement. Si une motion de censure est facile à poser par le parlement (vote à la majorité pour faire chuter le gouvernement), les conditions pour une dissolution de l'assemblée sont complexes, et cette dernière n'a donc jamais eu lieu. A l'inverse, de nombreuses motions de censure sont déposées et votées, ce qui est dû notemment au contexte politique. Les trois grandes forces politiques de l'époque sont le parti communiste (PC), le rassemblement du peuple français (RPF fondé par de Gaulle) et la coalition gouvernementale (composée de partis centristes). Dans le contexte de guerre froide, le PC qui est très opposé aux décisions de la France (plan Marshall, guerre de décolonisation...) se met à l'obstruction parlementaire, les conflits politiques sont alors très importants. La France est jugée ingouvernable par de nombreux critiques, c'est au total 25 gouvernements différents qui se sont succédés en seulement 13 ans.
 
-Le gouvernement met en place en 1951 la loi des apparentements qui a pour but de renforcer le pouvoir de la coalition dominante, dans chaque département si une coalition de parti obtient plus de 50% des voix, elle obtient TOUS les sièges de ce département. L'idée est que les partis qui forment une coalition doivent s'entendre en avance pour pouvoir obtenir plus de siège, cette stratégie repose sur le fait que les deux plus gros parti (PC et RPF) ne pourront pas s'entendre car trop éloignés politiquement. Si aucune coalition n'a la majorité, le scrutin à la proportionelle était utilisé.
+Le gouvernement met en place en 1951 la loi des apparentements qui a pour but de renforcer le pouvoir de la coalition dominante, dans chaque département si une coalition de partis obtient plus de 50% des voix, elle obtient TOUS les sièges de ce département. L'idée est que les partis qui forment une coalition doivent s'entendre en avance pour pouvoir obtenir plus de siège, cette stratégie repose sur le fait que les deux plus gros parti (PC et RPF) ne pourront pas s'entendre car trop éloignés politiquement. Si aucune coalition n'a la majorité, le scrutin à la proportionelle était utilisé.
 
 ### Exemple d'application le la loi des apparentements (C, D et E forment une coalition) pour 10 sièges
 
@@ -69,6 +69,8 @@ Le gouvernement met en place en 1951 la loi des apparentements qui a pour but de
 |===================================================|
 | nb de sièges  | 0       | 0     | 3   | 3   | 4   |
 
+Exercice: Pourquoi cette répartition entre les partis C,D et E ? En utilisant toujours la méthode de la plus forte moyenne
+
 Les apparentements n'étaient effectifs que au sein même d'un département et pas à l'échelle nationale, et pas autorisés dans tous les départements. Cependant, la coalition gouvernementale a pu emporter 62% des sièges environ avec 51% des voix à l'échelle nationale. Le PC assez isolé politiquement a perdu 79 sièges par rapport aux éléctions précédenteset le RPR n'a pas atteint l'objectif de 200 sièges qu'il s'était fixé.
 
 Le système démocratique de la IVème République
@@ -76,7 +78,7 @@ Le système démocratique de la IVème République
 
 La IVème république est un régime parlementaire, c'est à dire que le parlement a un pouvoir plus important que celui du président de la république. De plus, le scrutin à la proportionelle a pour avantage d'avoir un parlement plus représentatif des opinions des français·es mais implique donc que le gouvernement a plus de mal à avoir une majorité au parlement. 
 
-<img src="/images/4emerep-institutions.png" alt="drawing" width="100"/>
+<img src="/images/4emerep-institutions.png" alt="drawing" width="500"/>
 
 
 La taille des circonscriptions, un effet de seuil
@@ -87,10 +89,10 @@ Bien que le mode de scrutin de la IV ème république (l'originel) était un mod
 ### Exemple de répartition avec 3 régions
 
 | Parti         | A       | B     | C   | répartition des sièges (5 par région) |
-|:--------      |:-------:|------:| ---:|--------------------------------------:|
-| région 1      | 100     | 125   | 20  | parti A: 2   parti B: 3  parti C: 0   |
-| région 2      | 25      | 110   | 30  | parti A: 0   parti B: 4  parti C: 1   |
-| région 3      | 20      | 80    | 50  | parti A: 0   parti B: 4  parti C: 1   |
+|:--------      |:-------:|:-----:|:---:|:-------------------------------------:|
+| région 1      | 100     | 125   | 20  | parti A: 2 | parti B: 3 | parti C: 0  |
+| région 2      | 25      | 110   | 30  | parti A: 0 | parti B: 4 | parti C: 1  |
+| région 3      | 20      | 80    | 50  | parti A: 0 | parti B: 4 | parti C: 1  |
 |===============================================================================|
 | total         | 145     | 240   | 100 | parti A: 2   parti B: 11 parti C: 2   |
 
