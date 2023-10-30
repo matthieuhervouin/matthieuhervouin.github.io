@@ -38,7 +38,7 @@ Le scrutin
 ------
 Le scrutin pour ces élections n'était pas global, il s'agissait d'élections à la proportionelle à l'échelle des départements. Les votant·e·s devaient sélectionner un parti et un ou plusieurs membres de ce parti c'était un scrutin proportionnel plurinominal. La règle de la plus forte moyenne déterminait le nombre de sièges alloués à chaque parti, et les candidat·e·s de chaque parti étaient ensuite sélectionné·e·s en fonction du nombre de votes reçus. 
 
-Pour déterminer la répartition des sièges, on compte le nombre de vote pour chaque parti, ce qui nous donne un pourcentage _P(i)_ des votes exprimés pour chaque parti _i_. Pour une assemblée composée de _k_ sièges, on doit donc donner _P(i)_ &times _k_ /100 sièges au parti _i_. Le problème est que ces nombres ne sont pas entiers, il faut donc une règle pour déterminer comment donner les sièges restants. La règle utilisée ici était celle de la plus forte moyenne, mais il en existe beacoup d'autres (voir les liens, un post est à venir à ce propos).
+Pour déterminer la répartition des sièges, on compte le nombre de vote pour chaque parti, ce qui nous donne un pourcentage _P(i)_ des votes exprimés pour chaque parti _i_. Pour une assemblée composée de _k_ sièges, on doit donc donner _P(i)_ x _k_ /100 sièges au parti _i_. Le problème est que ces nombres ne sont pas entiers, il faut donc une règle pour déterminer comment donner les sièges restants. La règle utilisée ici était celle de la plus forte moyenne, mais il en existe beacoup d'autres (voir les liens, un post est à venir à ce propos).
 
 
 ### Exemple de répartition par la méthode de la plus forte moyenne avec 100 sièges
