@@ -59,12 +59,43 @@ Les problèmes de la IVème république
 ------
 Le gros problème de la IV ème république a été une instabilité gouvernementale très forte, qui peut être expliquée par deux facteurs, l'institution en elle-même qui favorise le parlement contre le gouvernement, et le contexte à l'international (guerre froide et décolonisation) qui crée des divisions importantes. Pour la raison institutionelle, il y a un fort déséquilibre entre le pouvoir de controle du parlement sur le gouvernement et celui du gouvernement sur le parlement. Si une motion de censure est facile à poser par le parlement (vote à la majorité pour faire chuter le gouvernement), les conditions pour une dissolution de l'assemblée sont complexes, et cette dernière n'a donc jamais eu lieu. A l'inverse, de nombreuses motions de censure sont déposées et votées, ce qui est dû notemment au contexte politique. Les trois grandes forces politiques de l'époque sont le parti communiste (PC), le rassemblement du peuple français (RPF fondé par de Gaulle) et la coalition gouvernementale (composée de partis centristes). Dans le contexte de guerre froide, le PC qui est très opposé aux décisions de la France (plan Marshall, guerre de décolonisation...) se met à l'obstruction parlementaire, les conflits politiques sont alors très importants. Dans ce contexte, la France est jugée ingouvernable par de nombreux critiques, c'est au total 25 gouvernements différents qui se sont succédés en seulement 13 ans.
 
+Le gouvernement met en place en 1951 la loi des apparentements qui a pour but de renforcer le pouvoir de la coalition dominante, dans chaque département si une coalition de parti obtient plus de 50% des voix, elle obtient TOUS les sièges de ce département. L'idée est que les partis qui forment une coalition doivent s'entendre en avance pour pouvoir obtenir plus de siège, cette stratégie repose sur le fait que les deux plus gros parti (PC et RPF) ne pourront pas s'entendre car trop éloignés politiquement. Si aucune coalition n'a la majorité, le scrutin à la proportionelle était utilisé.
+
+### Exemple d'application le la loi des apparentements (C, D et E forment une coalition) pour 10 sièges
+
+| Parti         | A       | B     | C   | D   | E   |
+|:--------      |:-------:|------:| ---:|----:|----:|
+| pourcentage   | 25      | 24    | 15  | 15  | 21  |
+|===================================================|
+| nb de sièges  | 0       | 0     | 10              |
+
+Les apparentements n'étaient effectifs que au sein même d'un département et pas à l'échelle nationale, et pas autorisés dans tous les départements. Cependant, la coalition gouvernementale a pu emporter 62% des sièges environ avec 51% des voix à l'échelle nationale. Le PC assez isolé politiquement a perdu 79 sièges par rapport aux éléctions précédenteset le RPR n'a pas atteint l'objectif de 200 sièges qu'il s'était fixé.
+
 Le système démocratique de la IVème République
 -----
 
 La IVème république est un régime parlementaire, c'est à dire que le parlement a un pouvoir plus important que celui du président de la république. De plus, le scrutin à la proportionelle a pour avantage d'avoir un parlement plus représentatif des opinions des français·es mais implique donc que le gouvernement a plus de mal à avoir une majorité au parlement. 
 
 <img src="/images/4emerep-institutions.png" alt="drawing" width="100"/>
+
+
+La taille des circonscriptions, un effet de seuil
+=====
+
+Bien que le mode de scrutin de la IV ème république (l'originel) était un mode de scrutin proportionnel, la section en départements a fait que la répartition de l'assemblée n'était elle pas vraiment proportionelle aux nombre de votant·e·s par parti. Il existe cependant des mode de scrutin proportionnels qui s'attaquent à ce problème à double objectif, ils seront présentés plus tard ici.
+
+### Exemple de répartition avec 3 régions
+
+| Parti         | A       | B     | C   | répartition des sièges (5 par région) |
+|:--------      |:-------:|------:| ---:|--------------------------------------:|
+| région 1      | 100     | 125   | 20  | parti A: 2   parti B: 3  parti C: 0   |
+| région 2      | 25      | 110   | 30  | parti A: 0   parti B: 4  parti C: 1   |
+| région 3      | 20      | 80    | 50  | parti A: 0   parti B: 4  parti C: 1   |
+|===============================================================================|
+| total         | 145     | 240   | 100 | parti A: 2   parti B: 11 parti C: 2   |
+
+Ici, le parti B qui a un peu moins de la moitié des voix obtient 11 sièges sur 15, le résultat global n'est pas du tout proportionnel.
+
 
 
 Avoir un régime parlementaire élu à la proportionelle: mauvaise idée ?
@@ -74,8 +105,6 @@ De part notre expérience de ce type de régime en France (échecs des IIIème e
 Enfin, ce problème d'impossibilité de gouvenrer est fortement lié au contexte politique comme je l'ai expliqué précédemment, les outils de destitution du gouvernement existent toujours, ils ont simplement plus tendance à échouer étant donné que dans la période récente le gouvernement possédait souvent une majorité au parlement. Ceci est dû bien sûr au mode de scrutin parlementaire que nous avons qui favorise les grands partis.
 
 
-La taille des circonscriptions, un effet de seuil
-=====
 
 
 
