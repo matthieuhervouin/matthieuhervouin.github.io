@@ -88,7 +88,7 @@ Bien que le mode de scrutin de la IV ème république (l'originel) était un mod
 
 ### Exemple de répartition avec 3 régions
 
-| Parti         | A       | B     | C  || sièges A   | sièges B   | sièges C    |
+|               | A       | B     | C   | sièges A   | sièges B   | sièges C    |
 |:--------      |:-------:|:-----:|:---:|:----------:|:----------:|:-----------:|
 | région 1      | 100     | 125   | 20  |  2         |  3         |  0          |
 | région 2      | 25      | 110   | 30  |  0         |  4         |  1          |
