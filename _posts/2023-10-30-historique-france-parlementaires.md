@@ -1,5 +1,5 @@
 ---
-title: 'Les élections parelemntaires en France'
+title: 'Les élections parelementaires en France'
 date: 2023-10-27
 permalink: /posts/2012/08/blog-post-1/
 tags:
@@ -67,7 +67,7 @@ Le gouvernement met en place en 1951 la loi des apparentements qui a pour but de
 |:--------      |:-------:|------:| ---:|----:|----:|
 | pourcentage   | 25      | 24    | 15  | 15  | 21  |
 |===================================================|
-| nb de sièges  | 0       | 0     | 10              |
+| nb de sièges  | 0       | 0     | 3   | 3   | 4   |
 
 Les apparentements n'étaient effectifs que au sein même d'un département et pas à l'échelle nationale, et pas autorisés dans tous les départements. Cependant, la coalition gouvernementale a pu emporter 62% des sièges environ avec 51% des voix à l'échelle nationale. Le PC assez isolé politiquement a perdu 79 sièges par rapport aux éléctions précédenteset le RPR n'a pas atteint l'objectif de 200 sièges qu'il s'était fixé.
 
