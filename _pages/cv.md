@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Represents PhD students of Dauphine in "Conseil Scientifique" (administative committee) and for "Responsabilité Social de l'université" (committee for environemental and social questions)

@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at LAMSADE under the supervision of Remzi Sanver, Olivier Cailloux and Ali Ozkes. My topics of interest are mostly in computationnal social choice, but I aslo work on online optimization, decision under uncertainty among other fields of computer science. Outside of research, I have a severe addicition to sports, especially rugby, running and climbing (non-exhaustive list of course).
+I am a PhD student in computer science at [LAMSADE](https://www.lamsade.dauphine.fr) under the supervision of Remzi Sanver, Olivier Cailloux and Ali Ozkes. My topics of interest are mostly in [computational social choice](https://www.comsocseminar.org), but I aslo work on online optimization, decision under uncertainty among other fields of computer science. Outside of research, I have a severe addicition to sports, especially rugby, running and climbing (non-exhaustive list of course).
 

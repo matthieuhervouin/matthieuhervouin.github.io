@@ -1,12 +1,12 @@
 ---
 title: "Online Approval Committee Elections"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/online-ABC
 excerpt: 'We consider the problem of ABC elections where candidates are presented one by one in an online setting.'
 date: 2022-05-06
 venue: 'IJCAI '
 paperurl: 'https://arxiv.org/abs/2202.06830'
-citation: 'Virginie Do, Matthieu Hervouin, Jérôme Lang, Piotr Skowron (2022). &quot;Online Approval Committee Elections.&quot; <i>IJCAI</i>.'
+citation: 
 ---
 Assume k candidates need to be selected. The candidates appear over time. Each time one
 appears, it must be immediately selected or rejected—a decision that is made by a group of
