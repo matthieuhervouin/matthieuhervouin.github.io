@@ -52,7 +52,7 @@ Pour déterminer la répartition des sièges, on compte le nombre de vote pour c
 
 Ici, il reste un siège à attribuer après la répartition des sièges entiers, on va donc calculer la moyenne du nombre de voix par siège pour chaque parti (si le siège restant est emporté) et celui qui aura la plus forte emportera le siège restant. Pour le parti A, on aurait 34 sièges pour 100 votes donc 2.94 votes par siège, pour le parti B 125/42=2.98 votes par siège et 75/26=2.88 pour le parti C. C'est donc le parti B qui remporte le siège restant. Si il y avait eu plus qu'un siège, on aurait répété cette procédure pour chaque siège restant à répartir.
 
-
+Pour l'histoire, ce mode de scrutin est aussi appelé scrutin de Jefferson du nom de Thomas Jefferson l'un des pères fondateurs des Etats-Unis qui avait proposé cette méthode pour les futures élections parlementaires américaines. 
 
 
 Les problèmes de la IVème république
