@@ -88,13 +88,13 @@ Bien que le mode de scrutin de la IV ème république (l'originel) était un mod
 
 ### Exemple de répartition avec 3 régions
 
-| Parti         | A       | B     | C   | répartition des sièges (5 par région) |
-|:--------      |:-------:|:-----:|:---:|:-------------------------------------:|
-| région 1      | 100     | 125   | 20  | parti A: 2 | parti B: 3 | parti C: 0  |
-| région 2      | 25      | 110   | 30  | parti A: 0 | parti B: 4 | parti C: 1  |
-| région 3      | 20      | 80    | 50  | parti A: 0 | parti B: 4 | parti C: 1  |
+| Parti         | A       | B     | C  || sièges A   | sièges B   | sièges C    |
+|:--------      |:-------:|:-----:|:---:|:----------:|:----------:|:-----------:|
+| région 1      | 100     | 125   | 20  |  2         |  3         |  0          |
+| région 2      | 25      | 110   | 30  |  0         |  4         |  1          |
+| région 3      | 20      | 80    | 50  |  0         |  4         |  1          |
 |===============================================================================|
-| total         | 145     | 240   | 100 | parti A: 2   parti B: 11 parti C: 2   |
+| total         | 145     | 240   | 100 |  0         |  11        |  1          |
 
 Ici, le parti B qui a un peu moins de la moitié des voix obtient 11 sièges sur 15, le résultat global n'est pas du tout proportionnel.
 
