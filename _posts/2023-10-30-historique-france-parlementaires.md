@@ -18,6 +18,8 @@ Depuis 1962: Des circonscriptions indépendentes
 
 La Vème république est un régime dit semi-présidentiel, on élit l·a·e président·e par un vote direct et les député·e·s par un autre. Il se veut "efficace" contrairement à la- IVème république qui était critiquée pour être ingouvernable. Le mode de scrutin pour les élections parlementaires a donc été choisi dans ce but.
 
+<img src="/images/Institutions-cinquieme-republique.svg" alt="drawing" width="500"/>
+
 
 Le scrutin
 ------
@@ -102,7 +104,7 @@ Ici, le parti B qui a un peu moins de la moitié des voix obtient 11 sièges sur
 
 Avoir un régime parlementaire élu à la proportionelle: mauvaise idée ?
 ======
-De part notre expérience de ce type de régime en France (échecs des IIIème et IVème républiques) on a tendance à penser que notre système est finalement le plus efficace, et donc meilleur que les précédents. Pourtant il existe de nombreux pays où les parlementaires sont élus à la proportionelle, comme l'Allemagne ou les Pays-Bas que je vais traiter prochainement. Pour ce qui de l'impossibilité de faire des lois de manière stable, il y a heureusement de nombreux outils connus depuis plus ou moins longtemps dans le monde de la recherche, ils seront aussi au programme.
+De part notre expérience de ce type de régime en France (échecs de la  IVème république) on a tendance à penser que notre système est finalement le plus efficace, et donc meilleur que les précédents. Pourtant il existe de nombreux pays où les parlementaires sont élus à la proportionelle, comme l'Allemagne ou les Pays-Bas que je vais traiter prochainement. Pour ce qui de l'impossibilité de faire des lois de manière stable, il y a heureusement de nombreux outils connus depuis plus ou moins longtemps dans le monde de la recherche, ils seront aussi au programme.
 
 Enfin, ce problème d'impossibilité de gouvenrer est fortement lié au contexte politique comme je l'ai expliqué précédemment, les outils de destitution du gouvernement existent toujours, ils ont simplement plus tendance à échouer étant donné que dans la période récente le gouvernement possédait souvent une majorité au parlement. Ceci est dû bien sûr au mode de scrutin parlementaire que nous avons qui favorise les grands partis.
 

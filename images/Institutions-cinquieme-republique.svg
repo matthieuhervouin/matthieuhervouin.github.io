@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="institutions-Veme-republique.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient17529">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop17531" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop17533" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3497"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3512"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3515"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3494"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17529"
+       id="linearGradient17535"
+       x1="779.38696"
+       y1="502.51559"
+       x2="983.40063"
+       y2="502.51559"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="559.60702"
+     inkscape:cy="373.76946"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3218"
+       transform="translate(-4,-12)">
+      <rect
+         y="657.96912"
+         x="31.473022"
+         height="68.156288"
+         width="989.41614"
+         id="rect2383"
+         style="opacity:1;fill:#fbdc10;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3169"
+         y="703.88318"
+         x="195.94672"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="703.88318"
+           x="195.94672"
+           id="tspan3171"
+           sodipodi:role="line">Ensemble des citoyens électeurs</tspan></text>
+    </g>
+    <g
+       id="g3405"
+       transform="matrix(0.7348374,0,0,0.7348374,-80.11344,298.4455)">
+      <rect
+         y="251.96324"
+         x="749.86884"
+         height="178.26247"
+         width="278.26248"
+         id="rect3381"
+         style="opacity:1;fill:#56fc4a;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2.72169065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text3385"
+         y="282.09448"
+         x="888.8941"
+         style="font-size:31px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3401"
+           y="282.09448"
+           x="888.8941"
+           sodipodi:role="line">Grands électeurs</tspan></text>
+      <text
+         id="text3389"
+         y="316.09448"
+         x="771.19244"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="316.09448"
+           x="771.19244"
+           id="tspan3391"
+           sodipodi:role="line">- Députés</tspan><tspan
+           id="tspan3399"
+           y="341.09448"
+           x="771.19244"
+           sodipodi:role="line">- Conseillers généraux</tspan><tspan
+           id="tspan3393"
+           y="366.09448"
+           x="771.19244"
+           sodipodi:role="line">- Conseillers régionaux</tspan><tspan
+           id="tspan3395"
+           y="391.09448"
+           x="771.19244"
+           sodipodi:role="line">- Délégués des conseils</tspan><tspan
+           id="tspan3397"
+           y="416.09448"
+           x="771.19244"
+           sodipodi:role="line">municipaux</tspan></text>
+    </g>
+    <g
+       id="g10744"
+       transform="translate(-3.2624522,6)">
+      <g
+         transform="translate(29.41512,-82)"
+         id="g10623">
+        <g
+           id="g3283"
+           transform="translate(-228,122)">
+          <g
+             transform="translate(31.233229,-29.43963)"
+             id="g3248" />
+        </g>
+        <g
+           id="g10674">
+          <g
+             transform="translate(0.2506388,0)"
+             id="g10709">
+            <rect
+               style="opacity:1;fill:#feaeae;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect3214"
+               width="430.17331"
+               height="206.55484"
+               x="218.77776"
+               y="316.55542" />
+            <text
+               xml:space="preserve"
+               style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="406.55347"
+               y="370.65485"
+               id="text3223"><tspan
+                 sodipodi:role="line"
+                 id="tspan3225"
+                 x="406.55347"
+                 y="370.65485">Parlement</tspan></text>
+            <g
+               transform="translate(-204.46865,91.779544)"
+               id="g3242">
+              <path
+                 sodipodi:type="arc"
+                 style="opacity:1;fill:#fb2d2d;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2.76920176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path3210"
+                 sodipodi:cx="285"
+                 sodipodi:cy="286.09448"
+                 sodipodi:rx="79"
+                 sodipodi:ry="80"
+                 d="M 206,286.09448 A 79,80 0 0 1 364,286.09448 L 285,286.09448 z"
+                 sodipodi:start="3.1415927"
+                 sodipodi:end="6.2831853"
+                 transform="matrix(1.1005859,0,0,1.0663736,213.41175,106.17762)" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+                 x="527.53284"
+                 y="363.96271"
+                 id="text3227"><tspan
+                   sodipodi:role="line"
+                   id="tspan3229"
+                   x="527.53284"
+                   y="363.96271">Assemblée</tspan><tspan
+                   sodipodi:role="line"
+                   x="527.53284"
+                   y="388.96271"
+                   id="tspan3231">Nationale</tspan></text>
+            </g>
+            <g
+               transform="translate(-201.88278,383.3076)"
+               id="g3237">
+              <path
+                 sodipodi:type="arc"
+                 style="opacity:1;fill:#fb2d2d;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2.76920176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path3212"
+                 sodipodi:cx="285"
+                 sodipodi:cy="286.09448"
+                 sodipodi:rx="79"
+                 sodipodi:ry="80"
+                 d="M 206,286.09448 A 79,80 0 0 1 364,286.09448 L 285,286.09448 z"
+                 sodipodi:start="3.1415927"
+                 sodipodi:end="6.2831853"
+                 transform="matrix(1.1005859,0,0,1.0663736,434.07204,-185.35044)" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+                 x="718.41772"
+                 y="84.934662"
+                 id="text3233"><tspan
+                   sodipodi:role="line"
+                   id="tspan3235"
+                   x="718.41772"
+                   y="84.934662">Sénat</tspan></text>
+            </g>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.6355803;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);marker-mid:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 385.65232,436.09448 L 482.81404,436.09448"
+               id="path6405" />
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="423.46988"
+               y="422.09448"
+               id="text10619"><tspan
+                 sodipodi:role="line"
+                 id="tspan10621"
+                 x="423.46988"
+                 y="422.09448">lois</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#f5f5f5;fill-opacity:0.96078431;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:0.96078431"
+       id="rect17537"
+       width="335.29077"
+       height="122.56427"
+       x="704.39233"
+       y="434.16183" />
+    <g
+       id="g3471"
+       transform="translate(250.36876,-199.74983)">
+      <g
+         id="g6375"
+         transform="translate(-4,20)">
+        <g
+           id="g10691"
+           transform="translate(-188,2)">
+          <g
+             id="g10726">
+            <rect
+               style="opacity:1;fill:#4aecfc;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect3465"
+               width="429.73688"
+               height="140.91957"
+               x="369.03052"
+               y="241.41214" />
+            <g
+               id="g3452"
+               transform="matrix(0.7052326,0,0,0.7052326,392.57127,194.54217)">
+              <g
+                 transform="translate(260.87184,107.76459)"
+                 id="g3422">
+                <g
+                   id="g10642">
+                  <rect
+                     y="34.213013"
+                     x="78"
+                     height="96"
+                     width="208"
+                     id="rect3424"
+                     style="opacity:1;fill:#037ebf;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2.8359437;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                  <text
+                     id="text3426"
+                     y="91.174545"
+                     x="181.41313"
+                     style="font-size:24.03827095px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+                     xml:space="preserve"><tspan
+                       y="91.174545"
+                       x="181.41313"
+                       sodipodi:role="line"
+                       id="tspan3448">Ministres</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g
+               id="g10647"
+               transform="translate(268,101.99999)">
+              <g
+                 transform="translate(-24.87184,-201.0511)"
+                 id="g3458">
+                <g
+                   id="g3432"
+                   transform="matrix(0.8320066,0,0,0.8320066,88.377623,278.84468)">
+                  <rect
+                     y="138.07082"
+                     x="69.769844"
+                     height="81.372353"
+                     width="176.30676"
+                     id="rect3434"
+                     style="opacity:1;fill:#037ebf;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:2.40382719;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                  <text
+                     id="text3436"
+                     y="173.30084"
+                     x="157.42145"
+                     style="font-size:21.63444328px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+                     xml:space="preserve"><tspan
+                       id="tspan3440"
+                       y="173.30084"
+                       x="157.42145"
+                       sodipodi:role="line">Premier</tspan><tspan
+                       y="200.3439"
+                       x="157.42145"
+                       sodipodi:role="line"
+                       id="tspan3444">Ministre</tspan></text>
+                </g>
+              </g>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="463.54739"
+               y="274.09448"
+               id="text3467"><tspan
+                 sodipodi:role="line"
+                 id="tspan3469"
+                 x="463.54739"
+                 y="274.09448">Gouvernement</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="291.27576"
+               y="319.8443"
+               id="text13190"><tspan
+                 sodipodi:role="line"
+                 id="tspan13192"
+                 x="291.27576"
+                 y="319.8443">désigne</tspan></text>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 537.63124,328.52057 L 629.63124,328.52057"
+               id="path13194" />
+            <text
+               xml:space="preserve"
+               style="font-size:12;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+               x="545.14978"
+               y="312.8443"
+               id="text13729"><tspan
+                 sodipodi:role="line"
+                 id="tspan13731"
+                 x="545.14978"
+                 y="312.8443">nomme</tspan></text>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+               d="M 575,483.09448 L 575,429.09448"
+               id="path13733"
+               transform="translate(-58.36876,177.74983)" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 249.63124,381.84431 L 249.63124,515.84431"
+               id="path15352" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6399"
+       transform="translate(-4,-32)">
+      <g
+         id="g11559"
+         transform="translate(58,38)">
+        <rect
+           style="opacity:1;fill:#fc4ad9;fill-opacity:0.69102993;fill-rule:nonzero;stroke:#000000;stroke-width:1.12276042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6391"
+           width="171.79504"
+           height="69.607002"
+           x="784.19653"
+           y="278.29095" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="870.47491"
+           y="308.05051"
+           id="text6393"><tspan
+             sodipodi:role="line"
+             id="tspan6395"
+             x="873.65851"
+             y="308.05051">Conseil </tspan><tspan
+             sodipodi:role="line"
+             x="870.47491"
+             y="333.05051"
+             id="tspan6397">constitutionnel</tspan></text>
+      </g>
+    </g>
+    <path
+       style="opacity:1;fill:#000080;fill-opacity:0.69102993;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96078431"
+       d="M 176.98907,646.0952 L 176.98907,208.30635" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 349.01339,645.14172 L 349.01339,430.13385"
+       id="path10770" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.95183396;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 573.15706,644.86857 L 573.15706,616.24167"
+       id="path10772" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-449.90292"
+       y="161.27344"
+       id="text12098"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12100"
+         x="-449.90292"
+         y="161.27344">élit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-640.25726"
+       y="548.26532"
+       id="text12102"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12104"
+         x="-640.25726"
+         y="548.26532">él<tspan
+   style="font-size:12px"
+   id="tspan15346">i</tspan>t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-563.3399"
+       y="337.26532"
+       id="text12106"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12108"
+         x="-563.3399"
+         y="337.26532">élit</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.97601199;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 177.988,64.016418 L 177.988,34.082488 L 926.72143,34.082488 L 926.72143,282.10648"
+       id="path12114" />
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="461.78622"
+       y="28.094482"
+       id="text12649"><tspan
+         sodipodi:role="line"
+         id="tspan12651"
+         x="461.78622"
+         y="28.094482">nomme 3 membres</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 329,150.77074 L 445,150.77074"
+       id="path12655" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.35020638px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-555.64801"
+       y="482.98349"
+       id="text14268"
+       transform="matrix(0,-0.8625172,1.1593971,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan14270"
+         x="-555.64801"
+         y="482.98349">élisent</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 677,322.09448 L 836,322.09448"
+       id="path14272" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="741"
+       y="302.09448"
+       id="text15340"><tspan
+         sodipodi:role="line"
+         id="tspan15342"
+         x="741"
+         y="302.09448">chaque président</tspan><tspan
+         sodipodi:role="line"
+         x="741"
+         y="317.09448"
+         id="tspan15344">nomme 3 membres</tspan></text>
+    <g
+       id="g10655"
+       transform="matrix(2.0544562,0,0,2.0544562,-103.50083,-46.030215)">
+      <g
+         transform="matrix(0.8320066,0,0,0.8320066,-13.521659,-9.179457)"
+         id="g3416">
+        <rect
+           style="opacity:1;fill:#037ebf;fill-opacity:0.96078431;fill-rule:nonzero;stroke:#000000;stroke-width:1.17005515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3298"
+           width="176.30676"
+           height="81.372345"
+           x="92.19281"
+           y="75.740814" />
+        <text
+           xml:space="preserve"
+           style="font-size:24.03827095px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="181.42578"
+           y="108.09448"
+           id="text3300"><tspan
+             sodipodi:role="line"
+             id="tspan3302"
+             x="181.42578"
+             y="108.09448">Président de</tspan><tspan
+             sodipodi:role="line"
+             x="181.42578"
+             y="138.14232"
+             id="tspan3304">la République</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="273"
+       y="219.09448"
+       id="text15887"><tspan
+         sodipodi:role="line"
+         id="tspan15889"
+         x="273"
+         y="219.09448">droit de</tspan><tspan
+         sodipodi:role="line"
+         x="273"
+         y="234.09448"
+         id="tspan15891">dissolution</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31364512;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 426.37019,181.0013 L 373.3662,181.0013 L 373.3662,338.18766"
+       id="path15895" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.35704911;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:none;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 345.92852,331.16596 L 345.92852,169.02811 L 426.07148,169.02811"
+       id="path15897" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.43126869px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-329.34592"
+       y="296.16043"
+       id="text17498"
+       transform="matrix(0,-0.8692724,1.1503874,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-329.34592"
+         y="296.16043"
+         id="tspan17502">motion de censure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.00645924px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-303.23724"
+       y="338.43518"
+       id="text17506"
+       transform="matrix(0,-0.9172049,1.0902689,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan17508"
+         x="-301.48523"
+         y="338.43518">question </tspan><tspan
+         sodipodi:role="line"
+         x="-303.23724"
+         y="352.19327"
+         id="tspan17510">de confiance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.96078431;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="870.77307"
+       y="486.52988"
+       id="text17518"><tspan
+         sodipodi:role="line"
+         id="tspan17520"
+         x="870.77307"
+         y="486.52988"
+         style="font-size:28px;fill:#000000;fill-opacity:0.96078431">INSTITUTIONS DE LA</tspan><tspan
+         sodipodi:role="line"
+         x="870.77307"
+         y="521.52985"
+         id="tspan17522"
+         style="font-size:28px;fill:#000000;fill-opacity:0.96078431">Vème RÉPUBLIQUE</tspan></text>
+  </g>
+</svg>
