@@ -1,5 +1,5 @@
 ---
-title: "Poster for Dauphine Digital Days"
+title: "Poster for Dauphine Digital Days 2022"
 collection: talks
 type: "Poster"
 permalink: 

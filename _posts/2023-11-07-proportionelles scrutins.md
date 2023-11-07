@@ -162,7 +162,7 @@ Un des reproches fait aux élections à la proportionelle est que les régions s
 
 
 Sources
-=====
+=====s
 [scrutin proportionnel (wiki)](https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal)
 [Scrutins et proportionnalité](https://fr.wikipedia.org/wiki/Systèmes_électoraux_et_proportionnalité#Méthodes_par_diviseurs)
 [Paradoxe d'Alabama](https://fr.wikipedia.org/wiki/Paradoxe_de_l%27Alabama)
