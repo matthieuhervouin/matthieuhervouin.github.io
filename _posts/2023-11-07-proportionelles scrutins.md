@@ -41,9 +41,9 @@ Ici, les 8 plus grands nombres dans le tableau sont 19, 13, 9.5, 8, 6.5, 6.3 et 
 
 Notons _n_ le nombre de votant·e·s au total, _m_ le nombre de parti et pour chaque parti _i_ de 1 à _m_, on note _n(i)_ le nombre de votes reçus par _i_. On veut déjà vérifier que chaque parti _i_ obtient bien au moins _s(j)=int(n(i)*m&frasl;n)_ où _int(x)_ est l'arrondi à l'entier inférieur de _x_. (Rappel: la méthode de Jefferson commence par attribuer les sièges entiers après avoir fait le produit en croix pour reporter proportionellement le nombre de votes par parti)[voir méthode de Jefferson](https://matthieuhervouin.github.io/posts/2012/08/blog-post-1/).
 
-Supposons qu'il existe un parti _i_ ayant obtenu moins de _s(i)_ sièges, dans ce cas il doit y avoir un parti _j_ qui en a obtenu plus que _s(j)_ d'où _ n(j)&frasl;(s(j)+1) &#8925; n(i)&frasl;s(i).
+Supposons qu'il existe un parti _i_ ayant obtenu moins de _s(i)_ sièges, dans ce cas il doit y avoir un parti _j_ qui en a obtenu plus que _s(j)_ d'où _n(j)&frasl;(s(j)+1) &#8925; n(i)&frasl;s(i)_.
 
-Dans ce cas, on a _s(j)+1= int(s(j)*m&frasl;n) + 1 &#62; s()*m&frasl;n; &#8925;_. Ainsi, on a _n&#8925;m = n(j)&frasl;(n(j)*m&frasl;n) &#62; n(j)&frasl;s(j) &#8925; n(i)&frasl;s(j)_. Or comme par définition de int() on a _s(i) &#8924;n(i)*m&frasl;n_ donc _n(i)&frasl;s(i) &#8925; n&frasl;m_, on obtient que _n&frasl;m &#62; n&frasl;m_ ce qui est impossible.
+Dans ce cas, on a _s(j)+1= int(s(j)*m&frasl;n) + 1 &#62; s(i)*m&frasl;n; &#8925;_. Ainsi, on a _n&#8925;m = n(j)&frasl;(n(j)*m&frasl;n) &#62; n(j)&frasl;s(j) &#8925; n(i)&frasl;s(j)_. Or comme par définition de int() on a _s(i) &#8924;n(i)*m&frasl;n_ donc _n(i)&frasl;s(i) &#8925; n&frasl;m_, on obtient que _n&frasl;m &#62; n&frasl;m_ ce qui est impossible.
 
 On a montré que la méthode de D'Hont respecte bien les sièges alloués lors de la première étape de la méthode de Jefferson, on peut remarquer que la deuxième étape de Jefferson correspond bien à sélectionner les plus grands quotients restants (il s'agit simplement de les sélectionner un par un au lieu d'écrire le tableau).
 

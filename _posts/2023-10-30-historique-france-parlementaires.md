@@ -96,7 +96,7 @@ Bien que le mode de scrutin de la IV ème république (l'originel) était un mod
 | région 2      | 25      | 110   | 30  |  0         |  4         |  1          |
 | région 3      | 20      | 80    | 50  |  0         |  4         |  1          |
 |===============================================================================|
-| total         | 145     | 240   | 100 |  0         |  11        |  1          |
+| total         | 145     | 240   | 100 |  2         |  11        |  2          |
 
 Ici, le parti B qui a un peu moins de la moitié des voix obtient 11 sièges sur 15, le résultat global n'est pas du tout proportionnel.
 
