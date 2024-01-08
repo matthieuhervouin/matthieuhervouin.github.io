@@ -43,7 +43,7 @@ Notons _n_ le nombre de votant·e·s au total, _m_ le nombre de parti et pour ch
 
 Supposons qu'il existe un parti _i_ ayant obtenu moins de _s(i)_ sièges, dans ce cas il doit y avoir un parti _j_ qui en a obtenu plus que _s(j)_ d'où _ n(j)&frasl;(s(j)+1) &#8925; n(i)&frasl;s(i).
 
-Dans ce cas, on a _s(j)+1= int(s(j)*m&frasl;n) + 1 &#62 s()*m&frasl;n; &#8925;_. Ainsi, on a _n&#8925;m = n(j)/(n(j)*m&frasl;n) &#62; n(j)&frasl;s(j) &#8925 n(i)&frasl;s(j)_. Or comme par définition de int() on a _s(i) &#8924;n(i)*m&frasl;n_ donc _n(i)&frasl;s(i) &#8925; n&frasl;m_, on obtient que _n&frasl;m &#62; n&frasl;m_ ce qui est impossible.
+Dans ce cas, on a _s(j)+1= int(s(j)*m&frasl;n) + 1 &#62; s()*m&frasl;n; &#8925;_. Ainsi, on a _n&#8925;m = n(j)&frasl;(n(j)*m&frasl;n) &#62; n(j)&frasl;s(j) &#8925; n(i)&frasl;s(j)_. Or comme par définition de int() on a _s(i) &#8924;n(i)*m&frasl;n_ donc _n(i)&frasl;s(i) &#8925; n&frasl;m_, on obtient que _n&frasl;m &#62; n&frasl;m_ ce qui est impossible.
 
 On a montré que la méthode de D'Hont respecte bien les sièges alloués lors de la première étape de la méthode de Jefferson, on peut remarquer que la deuxième étape de Jefferson correspond bien à sélectionner les plus grands quotients restants (il s'agit simplement de les sélectionner un par un au lieu d'écrire le tableau).
 
@@ -64,7 +64,7 @@ On prend 40 votant·e·s, donc le quotient de Hare est de 40&frasl;8=5
 |:--------        |:-------:|------:| ---:|
 | nb de votes     | 13      | 19    | 8   |
 |:--------        |:-------:|------:| ---:|
-|quotient par 5   | 2       | 4     | 1   |
+|quotient par 5   | 2       | 3     | 1   |
 | reste par 5     | 3       | 4     | 3   |
 |=========================================|
 | nb de sièges    | 2       | 4     | 2   |
@@ -157,7 +157,7 @@ Ici, les 8 plus grands chiffres obtenus dans le tableau sont 19, 13, 9, 6.3, 4.3
 Proportionelle vs représentation locale
 =====
 
-Un des reproches fait aux élections à la proportionelle est que les régions sont souvent mal représentées, au niveau national chaque parti obtient ses sièges mais les partis régionaux ont souvent du mal à se faire une place. Pour favoriser une représentation locale, certains pays optent pour des scrutins à la proportionelle indépendants dans chaque régions, c'était le cas de la France sous la IVème république. Dans [l'article précédent](https://matthieuhervouin.github.io/posts/2012/08/blog-post-1/) on a vu que cette stratégie ne permet pas d'avoir une répartition proportionelle des sièges à l'échelle nationale, il y a un conflit entre la proportionelle locale et nationale. La prochaine fois, on verra des modes de scrutins adaptés à cette problématique, notamment un qui est en place en Allemagne.
+Un des reproches fait aux élections à la proportionelle est que les régions sont souvent mal représentées, au niveau national chaque parti obtient ses sièges mais les partis régionaux ont souvent du mal à se faire une place. Pour favoriser une représentation locale, certains pays optent pour des scrutins à la proportionelle indépendants dans chaque région, c'était le cas de la France sous la IVème république. Dans [l'article précédent](https://matthieuhervouin.github.io/posts/2012/08/blog-post-1/) on a vu que cette stratégie ne permet pas d'avoir une répartition proportionelle des sièges à l'échelle nationale, il y a un conflit entre la proportionelle locale et nationale. La prochaine fois, on verra des modes de scrutins adaptés à cette problématique, notamment un qui est en place en Allemagne.
 
 
 
