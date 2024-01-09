@@ -39,12 +39,11 @@ Ici, les 8 plus grands nombres dans le tableau sont 19, 13, 9.5, 8, 6.5, 6.3 et 
 
 ### Preuve: Jefferson équivault à D'Hont (pas obligatoire à lire )
 
-Notons _n_ le nombre de votant·e·s au total, _m_ le nombre de parti et pour chaque parti _i_ de 1 à _m_, on note _n(i)_ le nombre de votes reçus par _i_. On veut déjà vérifier que chaque parti _i_ obtient bien au moins _s(j)=int(n(i)*m&frasl;n)_ où _int(x)_ est l'arrondi à l'entier inférieur de _x_. (Rappel: la méthode de Jefferson commence par attribuer les sièges entiers après avoir fait le produit en croix pour reporter proportionellement le nombre de votes par parti)[voir méthode de Jefferson](https://matthieuhervouin.github.io/posts/2012/08/blog-post-1/).
+Notons $n$ le nombre de votant·e·s au total, $m$ le nombre de parti et pour chaque parti $i$ de 1 à $m$, on note $n_i$ le nombre de votes reçus par $i$. On veut déjà vérifier que chaque parti $i$ obtient bien au moins  $s_j= \lfloor n_i \times \frac{n}{m} \rfloor$ où $\lfloor x \rfloor$ est l'arrondi à l'entier inférieur de $x$. (Rappel: la méthode de Jefferson commence par attribuer les sièges entiers après avoir fait le produit en croix pour reporter proportionellement le nombre de votes par parti)[voir méthode de Jefferson](https://matthieuhervouin.github.io/posts/2012/08/blog-post-1/).
 
-Supposons qu'il existe un parti _i_ ayant obtenu moins de _s(i)_ sièges, dans ce cas il doit y avoir un parti _j_ qui en a obtenu plus que _s(j)_ d'où _n(j)&frasl;(s(j)+1) &#8925; n(i)&frasl;s(i)_.
-$\frac{n_j}{s_j +1} \geq \frac{n_i}{s_i +1}$.
+Supposons qu'il existe un parti $i$ ayant obtenu moins de $s_i$ sièges, dans ce cas il doit y avoir un parti $j$ qui en a obtenu plus que $s_j$ d'où $\frac{n_j}{s_j +1} \geq \frac{n_i}{s_i}$(1).
 
-Dans ce cas, on a _s(j)+1= int(s(j)*m&frasl;n) + 1 &#62; s(i)*m&frasl;n; &#8925;_. Ainsi, on a _n&frasl;m = n(j)&frasl;(n(j)*m&frasl;n) &#62; n(j)&frasl;s(j) &#8925; n(i)&frasl;s(j)_. Or comme par définition de int() on a _s(i) &#8924;n(i)*m&frasl;n_ donc _n(i)&frasl;s(i) &#8925; n&frasl;m_, on obtient que _n&frasl;m &#62; n&frasl;m_ ce qui est impossible.
+On sait que $s_{j+1} = \lfloor \frac{m}{n} \times n_j \rfloor +1 > \frac{m}{n}\times n_j$, et $s_i = \lfloor  \frac{m}{n}\times n_i \rfloor \leq \frac{m}{n}\times n_i$. Ainsi, (1) implique $\frac{n_j}{\frac{m}{n}\times n_j}> \frac{n_j}{s_j +1} \geq \frac{n_i}{s_i} \geq \frac{n_i}{frac{m}{n}\times n_i}$ d'où $\frac{n}{m} >\frac{n}{m}$ ce qui est impossible.
 
 On a montré que la méthode de D'Hont respecte bien les sièges alloués lors de la première étape de la méthode de Jefferson, on peut remarquer que la deuxième étape de Jefferson correspond bien à sélectionner les plus grands quotients restants (il s'agit simplement de les sélectionner un par un au lieu d'écrire le tableau).
 
@@ -54,12 +53,12 @@ On a montré que la méthode de D'Hont respecte bien les sièges alloués lors d
 Les méthodes au plus fort reste
 -----
 
-Les méthodes au plus fort reste ont la même base : on commence par calculer le quotient électoral. Il existe plusieurs variantes de méthodes à plus fort reste, dont la différence figure dans le calcul du quotient électoral, on va ici se concentrer sur la méthode de Hare. Le quotient de Hare est le nombre de votes _n_ divisé par le nombre de sièges du parlement _k_ (donc _n&frasl;k_). Pour chaque parti, on fait une division entière du nombre de vote de soutien au parti par le quotient électoral, on obtient un nouveau quotient par parti et un reste. On affecte un nombre de sièges à chaque parti correspondant à leurs quotients respectifs (on ne dépasse pas la taille du parlement car au total c'est au plus _k*n&frasl;n=k_ sièges attribués). La deuxième étape est d'attribuer les sièges restants aux partis par ordre décroissant des restes. 
+Les méthodes au plus fort reste ont la même base : on commence par calculer le quotient électoral. Il existe plusieurs variantes de méthodes à plus fort reste, dont la différence figure dans le calcul du quotient électoral, on va ici se concentrer sur la méthode de Hare. Le quotient de Hare est le nombre de votes $n$ divisé par le nombre de sièges du parlement $k$ (donc $\frac{n}{k}$). Pour chaque parti, on fait une division entière du nombre de vote de soutien au parti par le quotient électoral, on obtient un nouveau quotient par parti et un reste. On affecte un nombre de sièges à chaque parti correspondant à leurs quotients respectifs (on ne dépasse pas la taille du parlement car au total c'est au plus $k \times \frac{n}{n}=k$ sièges attribués). La deuxième étape est d'attribuer les sièges restants aux partis par ordre décroissant des restes. 
 
 
 ### Exemple de la méthode de Hare avec 8 sièges
 
-On prend 40 votant·e·s, donc le quotient de Hare est de 40&frasl;8=5
+On prend 40 votant·e·s, donc le quotient de Hare est de $\frac{40}{5}=8$.
 
 | Parti           | A       | B     | C   |
 |:--------        |:-------:|------:| ---:|
@@ -72,7 +71,7 @@ On prend 40 votant·e·s, donc le quotient de Hare est de 40&frasl;8=5
 
 Ici, les trois partis sont ex-aequo sur le dernier siège, dans ce cas la constitution prévoit un moyen simple de départager (en France c'est l'âge des candidat·e·s) ici on suppose que c'est l'ordre le parti C gagne le dernier siège par départage. On a obtenu un résultat différent de celui calculé par la méthode de D'Hont, ce n'est pas une exception, ces deux méthodes ont des objectifs assez différents sur la répartition des sièges restants après l'attribution des sièges "entiers".
 
-NB: A noter qu'ici on compare les reste des divisions euclidiennes par le quotient, mais on pourrait tout aussi bien comparer les restes décimaux. En effet quand on fait la division entière de _a_ par _b_, on cherche le quotient _q_ et le reste _r_. On a alors _r = a - bq_ et le reste décimal est _a&fraslq; - b= r&frasl;q_. Les restes de division euclidiennes et restes décimaux sont donc proportionnels, donc prendre les plus grands restes entiers ou décimaux revient au même. Dans les applications des méthodes de plus fort reste, on trouve ainsi les deux possibilités de comptage.
+NB: A noter qu'ici on compare les reste des divisions euclidiennes par le quotient, mais on pourrait tout aussi bien comparer les restes décimaux. En effet quand on fait la division entière de $a$ par $b$, on cherche le quotient $q$ et le reste $q$. On a alors  $r = a - b \times q$ et le reste décimal est $\frac{a}{q}-b =\frac{r}{q}$. Les restes de division euclidiennes et restes décimaux sont donc proportionnels, donc prendre les plus grands restes entiers ou décimaux revient au même. Dans les applications des méthodes de plus fort reste, on trouve ainsi les deux possibilités de comptage.
 
 
 Différences entre méthodes de diviseurs et méthodes à plus fort reste
@@ -82,7 +81,7 @@ L'esprit de la méthode de D'Hont est de maximiser le nombre minimal de vote par
 
 ### Représentation des partis
 
-On prend 40 votant·e·s pour 8 sièges, donc le quotient de Hare est de 40&frasl;8=5. On va calculer les quotients éléctoraux des partis, c'est à dire le nombre de sièges obtenu par votant·e·s.
+On prend 40 votant·e·s pour 8 sièges, donc le quotient de Hare est de $\frac{40}{8}=5$. On va calculer les quotients éléctoraux des partis, c'est à dire le nombre de sièges obtenu par votant·e·s.
 
 | Parti           | A       | B     | C   |
 |:--------        |:-------:|------:| ---:|
@@ -103,7 +102,7 @@ Le paradoxe d'Alabama tient son nom d'un cas d'application d'une méthode du plu
 
 ### Exemple
 
-Pour cet exemple on prend 10 000 votant·e·s avec 4 partis et on regarde les répartitions données par la méthode de Hare pour une taille de parelement _k_ égale à 5 ou 6.
+Pour cet exemple on prend 10 000 votant·e·s avec 4 partis et on regarde les répartitions données par la méthode de Hare pour une taille de parelement $k$ égale à 5 ou 6.
 
 | Parti           | A       | B     | C    | D   |
 |:--------        |:-------:|------:| ----:| ---:|
