@@ -43,7 +43,7 @@ Notons $n$ le nombre de votant·e·s au total, $m$ le nombre de parti et pour ch
 
 Supposons qu'il existe un parti $i$ ayant obtenu moins de $s_i$ sièges, dans ce cas il doit y avoir un parti $j$ qui en a obtenu plus que $s_j$ d'où $\frac{n_j}{s_j +1} \geq \frac{n_i}{s_i}$(1).
 
-On sait que $s_{j+1} = \lfloor \frac{m}{n} \times n_j \rfloor +1 > \frac{m}{n}\times n_j$, et $s_i = \lfloor  \frac{m}{n}\times n_i \rfloor \leq \frac{m}{n}\times n_i$. Ainsi, (1) implique $\frac{n_j}{\frac{m}{n}\times n_j}> \frac{n_j}{s_j +1} \geq \frac{n_i}{s_i} \geq \frac{n_i}{frac{m}{n}\times n_i}$ d'où $\frac{n}{m} >\frac{n}{m}$ ce qui est impossible.
+On sait que $s_{j+1} = \lfloor \frac{m}{n} \times n_j \rfloor +1 > \frac{m}{n}\times n_j$, et $s_i = \lfloor  \frac{m}{n}\times n_i \rfloor \leq \frac{m}{n}\times n_i$. Ainsi, (1) implique $\frac{n_j}{\frac{m}{n}\times n_j}> \frac{n_j}{s_j +1} \geq \frac{n_i}{s_i} \geq \frac{n_i}{\frac{m}{n}\times n_i}$ d'où $\frac{n}{m} >\frac{n}{m}$ ce qui est impossible.
 
 On a montré que la méthode de D'Hont respecte bien les sièges alloués lors de la première étape de la méthode de Jefferson, on peut remarquer que la deuxième étape de Jefferson correspond bien à sélectionner les plus grands quotients restants (il s'agit simplement de les sélectionner un par un au lieu d'écrire le tableau).
 
