@@ -151,7 +151,8 @@ Dans les méthodes des diviseurs, choisir la suite de diviseurs est très import
 
 
 Ici, les 8 plus grands chiffres obtenus dans le tableau sont 19, 13, 9, 6.3, 4.3, 3.8, et 2.7 deux fois. On obtient donc le même résultat qu'avec la méthode de Hare, ce qui ne sera pas toujours le cas. Avec cette méthode, le premier siège est de très loin le plus facile à obtenir, elle tend donc à faire apparaître beaucoup de très petits partis, lorsqu'elle était appliquée (dans les pays scandinaves principalement) elle tendait à rendre le parlement instable pour les questions de majorité. Le choix a donc été fait dans ces pays d'adapter ce mode de scrutin en modifiant le premier diviseur à 1.4, il devient donc plus difficile d'obtenir le premier siège, ce qui évite d'avoir une multitude de partis à 1 siège. Cette variante de la méthode de Sainte-Laguë va donc favoriser les partis de moyenne taille (qui auraient au moins un siège à la proportionelle pure).
- 
+
+La méthode de Sainte-Lägue est utilisée dans de nombreux pays en Europe (Allemagne, Bosnie, Norvège, Suède...). Là où la méthode de D'Hont minimise la surreprésentation des partis, c'est-à dire la différence pour chaque parti entre ses fraction des votes et des sièges, celle de Sainte-Lägue minimise le carré de cette différence, ce qui explique sa tendance à favoriser les petits partis.
 
 
 Proportionelle vs représentation locale
@@ -164,5 +165,7 @@ Un des reproches fait aux élections à la proportionelle est que les régions s
 Sources
 =====
 [scrutin proportionnel (wiki)](https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal)
+
 [Scrutins et proportionnalité](https://fr.wikipedia.org/wiki/Systèmes_électoraux_et_proportionnalité#Méthodes_par_diviseurs)
+
 [Paradoxe d'Alabama](https://fr.wikipedia.org/wiki/Paradoxe_de_l%27Alabama)
