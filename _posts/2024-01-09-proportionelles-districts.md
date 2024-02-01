@@ -1,7 +1,7 @@
 ---
-title: 'Les élection parlementaires allemandes, proportionalité et localité'
-date: 2023-11-30
-permalink: /posts/2023/11/blog-post-3/
+title: 'Les élection parlementaires en Europe, proportionalité et localité'
+date: 2024-01-09
+permalink: /posts/2024/01/blog-post-3/
 tags:
   - Vulgarisation
   - Démocratie
@@ -21,7 +21,7 @@ En Allemagne, jusqu'à l'année dernière, les votes se font au niveau des ditri
 
 
 ### Exemple de la méthode Allemande pour 6 sièges
-Pour cet exemple, on suppose qu'on avait pas de quota pour simplifier.
+Pour cet exemple, on suppose qu'on n'avait pas de quota pour simplifier.
 
 | Parti         | A       | B     | C   |
 | district 1    | 9       | 10    | 3   |
