@@ -14,7 +14,7 @@ Education
 * Licence (B.S. eq) in Computer Science at ENS de Lyon
 * M.S. in Computer Science at Université Paris-Dauphine
 
-Work experience
+Experience in research
 ======
 * Summer 2019: Research Internship
   * Ecole des Ponts et Chaussées
@@ -56,4 +56,4 @@ Teaching
   
 Service
 ======
-* Represents PhD students of Dauphine in "Conseil Scientifique" (administative committee) and for "Responsabilité Social de l'université" (committee for environemental and social questions)
+* PhD deputee in the lab council and for "Responsabilité Social de l'université" (committee for environemental and social questions)

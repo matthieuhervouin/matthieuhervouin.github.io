@@ -2,7 +2,7 @@
 title: "Online Approval Committee Elections"
 collection: publications
 permalink: /publication/online-ABC
-excerpt: 'We consider the problem of ABC elections where candidates are presented one by one in an online setting.'
+excerpt: 'We consider the problem of Approvall Based Committee elections where candidates are presented one by one in an online setting.'
 date: 2022-05-06
 venue: 'IJCAI '
 paperurl: 'https://arxiv.org/abs/2202.06830'
