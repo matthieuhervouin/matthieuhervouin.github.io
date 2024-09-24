@@ -8,6 +8,10 @@ date: 2023-11-22
 location: "France"
 ---
 
+Poster session in Paris Dauphine University (2023)
 
+A poster about a working paper with Jan Maly "Online Algorithms in Participatory Budgeting"
+
+[see poster](https://matthieuhervouin.github.io/files/Lamsade_day_2024.pdf)
 
 
