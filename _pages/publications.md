@@ -8,15 +8,31 @@ author_profile: true
 Published
 =======
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Online Approval Committee Elections
+------
+IJCAI, 2022
 
-{% include base_path %}
+Assume k candidates need to be selected. The candidates appear over time. Each time one
+appears, it must be immediately selected or rejected—a decision that is made by a group of
+individuals through voting. Assume the voters use approval ballots, i.e., for each candidate they
+only specify whether they consider it acceptable or not. This setting can be seen as a voting variant
+of choosing k secretaries. Our contribution is twofold. (1) We assess to what extent the committees
+that are computed online can proportionally represent the voters. (2) If a prior probability over
+candidate approvals is available, we show how to compute committees with maximal expected
+score.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Download paper here](https://arxiv.org/abs/2202.06830)
+
+
+Classifiaction Aggregation Without Unanimity
+------
+Mathemathical Social Sciences, 2024
+
+Given a set of object and categories, individuals are asked to give a classification (mapping of objects into categories) and we need to aggregate these classifications. Most litterature on this problem proved an Arrow like theorem for some variants of this or studied the fuzzy implementation, we proved here a Wilson-like theorem (replacing unanimity by citizen sovereignety which states that any object can be mapped to any category by the aggregating rule).
+
+[See full paper here](https://www.sciencedirect.com/science/article/pii/S0165489624000088)
+
+Co-authors: Olivier Cailloux, Ali Ozkes, M. Remzi Sanver
 
 Working Papers
 ======
